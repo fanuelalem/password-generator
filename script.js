@@ -13,4 +13,3 @@ document.getElementById("generate").value = result;
 }
  
 
- 
